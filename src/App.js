@@ -1,3 +1,4 @@
+import './'
 function App() {
   let name = '张三'
   return (
